@@ -1,0 +1,15 @@
+fastapi==0.115.* 
+uvicorn[standard]==0.32.*
+sqlalchemy==2.0.*
+asyncpg==0.30.*
+alembic==1.14.*
+geoalchemy2==0.16.*
+shapely==2.0.*
+pyproj==3.7.*
+rasterio==1.4.*
+gpxpy==1.6.*
+celery==5.4.*
+redis==5.2.*
+boto3==1.35.*
+python-multipart==0.0.20
+pydantic-settings==2.6.*
