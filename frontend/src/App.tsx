@@ -1,6 +1,6 @@
 import { useState, useCallback } from 'react';
 import { Map, Sidebar } from './components';
-import './App.css';
+//import './App.css';
 
 /**
  * Main application component.
